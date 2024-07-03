@@ -88,7 +88,7 @@ flex-direction:row
   }
 
 #arrivalInput {
-    background-color:#ececec;
+    background-color:#dddddd;
     font-family: Work Sans;
     font-size: 13px;
     padding: 7px;
@@ -99,7 +99,7 @@ flex-direction:row
 }
 
 #departureInput {
-    background-color:#ececec;
+    background-color:#dddddd;
     font-family: Work Sans;
     font-size: 13px;
     padding: 7px;
@@ -111,7 +111,7 @@ flex-direction:row
 }
 
 #dateInput {
-    background-color:#ececec;
+    background-color:#dddddd;
     font-family: Work Sans;
     font-size: 13px;
     padding: 7px;
